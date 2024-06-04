@@ -1,0 +1,49 @@
+.main{
+    width: 450px;
+    min-height: 200px;
+    float: left;
+    background: lightgrey;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.header{
+    width: 100%;
+    min-height: 70px;
+    background: white;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.section{
+    width: 252px;
+    min-height: 100px;
+    background: white;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.center{
+    width: 260px;
+    min-height: 200px;
+    float: left;
+    background: transparent;
+}
+
+.aside{
+    width: 146px;
+    min-height: 214px;
+    background: white;
+    float: left;
+}
+
+.border{
+    border: 2px solid black;
+}
+
+.disFlex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
